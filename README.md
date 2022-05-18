@@ -1,1 +1,1 @@
-# master_thesis
+# btc_volatility
